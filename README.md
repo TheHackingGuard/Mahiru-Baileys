@@ -3,7 +3,7 @@
 <div align="center">
 
 # 🛡️✨ @thehackingguard/mahiru-baileys ✨🛡️
-**Mahiru-Baileys is a custom-modified fork of Whiskeysockets Baileys, built for developers who want a fast, lightweight, and no-nonsense WhatsApp Web API. Optimized for stability, pairing-code auth, plugin-based bots, and real-time message handling — perfect for automation, bots, and hacking around WhatsApp with style.**
+**Mahiru-Baileys is a modified version of Whiskeysockets Baileys, designed specifically for developers looking to use the fast, lightweight, and efficient WhatsApp Web API. The implementation in Mahiru-Baileys has been optimized to improve stability, use pairing codes for authentication, support plugin-based bot development, and process messages in real-time. This makes Mahiru-Baileys suitable for automation and bot development within the WhatsApp ecosystem.**
 
 <img src="https://camo.githubusercontent.com/78c0b59f3a0d244ceb7aec4496ae0003edf1b7cb91bb3d2cdc8a8c66c2f4fb1c/68747470733a2f2f66696c65732e636174626f782e6d6f652f7536697632672e706e67" width="420" alt="Mahiru Baileys Banner" style="border-radius: 16px; border: 1px solid rgba(255,255,255,.25);" />
 <br/><br/>
